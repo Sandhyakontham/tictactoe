@@ -156,7 +156,3 @@ Acknowledgments
 Built with OpenCV and MediaPipe for computer vision.
 
 
-
-Inspired by the potential of gesture-based interfaces in gaming.
-
-Feel free to contribute or share feedback! 🚀
